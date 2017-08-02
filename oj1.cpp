@@ -671,3 +671,63 @@ int main(){
     }
     return 0;
 }*/
+//di tui N jie lou ti 
+/*#include <stdio.h>
+int fun(int n){
+	if(n==1) return 1;
+	if(n==2) return 2;
+	else return fun(n-1)+fun(n-2);
+}
+int main(){
+	int n;
+	while(scanf("%d",&n)!=EOF){
+		printf("%d\n",fun(n));
+	}
+	return 0;
+}*/
+//zhuang xin feng di tui
+/*
+#include<stdio.h>
+int fun(int n){
+	if(n==1) return 0;
+	if(n==2) return 1;
+	else return (n-1)*fun(n-1)+(n-1)*fun(n-2);
+}
+int main(){
+	int n;
+	while(scanf("%d",&n)!=EOF){
+		printf("%d\n",fun(n));
+	}
+	return 0;
+}*/
+//LIS zui chang di zeng zi xu lie
+/*#include<stdio.h>
+int max(int a,int b){return a>b?a:b;}
+int list[26];
+int dp[26];
+int main(){
+	int n;
+	while(scanf("%d",&n)!=EOF){
+		int i;
+		for(i=1;i<=n;i++)
+		{
+			scanf("%d",&list[i]);
+		}
+		for(i=1;i<=n;i++){
+			int tmax=1;
+			for(int j=1;j<i;j++){
+				if(list[j]>=list[i]){
+					tmax=max(tmax,dp[j]+1);
+				}
+			}
+			dp[i]=tmax;
+			printf("%d\n",dp[i]);
+		}
+		int ans=1;
+		for(i=1;i<=n;i++){
+			ans=max(ans,dp[i]);
+		}
+		printf("%d\n",ans);
+	}
+	return 0;
+}*/
