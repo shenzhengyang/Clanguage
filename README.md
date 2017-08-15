@@ -12,6 +12,6 @@
 #### 数据结构
 * 栈的使用-----------------------------------------------------------------------------------------------------[1.stack.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1.stack.cpp)
 * 哈夫曼树-----------------------------------------------------------------------------------------------------[2.haffmanTree.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2.haffmanTree.cpp)
-* 二叉树-------------------------------------------------------------------------------------------------------[3.binaryTree.cpp]（https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/binaryTree.cpp）
+* 二叉树-------------------------------------------------------------------------------------------------------[3.binaryTree.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/binaryTree.cpp)
 #### 数学问题
-* %运算符
+* %运算符------------------------------------------------------------------------------------------------------[1.%operater.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/1.%25operater.cpp)
