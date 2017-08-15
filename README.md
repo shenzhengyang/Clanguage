@@ -9,3 +9,9 @@
 * 简单图形绘制-------------------------------------------------------------------------------------------------[4.figure.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%9F%BA%E7%A1%80/4.figure.cpp)
 * 简单查找算法-------------------------------------------------------------------------------------------------[5.fine.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%9F%BA%E7%A1%80/5.fine.cpp)
 * 贪心算法-----------------------------------------------------------------------------------------------------[6.贪心algorithm.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%9F%BA%E7%A1%80/6.%E8%B4%AA%E5%BF%83algorithm.cpp)
+#### 数据结构
+* 栈的使用-----------------------------------------------------------------------------------------------------[1.stack.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1.stack.cpp)
+* 哈夫曼树-----------------------------------------------------------------------------------------------------[2.haffmanTree.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2.haffmanTree.cpp)
+* 二叉树-------------------------------------------------------------------------------------------------------[3.binaryTree.cpp]（https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/binaryTree.cpp）
+#### 数学问题
+* %运算符
