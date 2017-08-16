@@ -24,3 +24,11 @@
 * 二分求幂---------------------------------------------------------------------------------------------------[8.twoPower.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/8.twoPower.cpp)
 * 高精度整数-------------------------------------------------------------------------------------------------[9.bigInteger.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/9.bigInteger.cpp)
 #### 图论
+* 连通集--------------------------------------------------------------------------------------------------[1.connectedSet.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%9B%BE%E8%AE%BA/1.connectedSet.cpp)
+* 最小生成树--------------------------------------------------------------------------------------------------[2.MST.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%9B%BE%E8%AE%BA/2.MST.cpp)
+#### 搜索
+* 广度优先搜索------------------------------------------------------------------------------------------------[1.BFS.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%90%9C%E7%B4%A2/1.BFS.cpp)
+* 深度优先搜索------------------------------------------------------------------------------------------------[2.DFS.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E6%90%9C%E7%B4%A2/2.DFS.cpp)
+#### 动态规划
+* 递归算法--------------------------------------------------------------------------------------------------[1.iteration.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1.iteration.cpp)
+* 最长递增子序列----------------------------------------------------------------------------------------------[2.LIS.cpp](https://github.com/shenzhengyang/Clanguage/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/2.LIS.cpp)
